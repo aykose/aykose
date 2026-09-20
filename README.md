@@ -1,4 +1,4 @@
-# Prénom Nom
+# Alexi GONDRY
 
 Étudiant en Bachelor Cybersécurité à EPITA. Je m'intéresse à l'architecture réseau, au pentest et, plus largement, à tout ce qui touche à la sécurité offensive et défensive des systèmes.
 

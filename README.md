@@ -16,7 +16,7 @@ Bachelor Cybersécurité — EPITA. Le programme couvre les fondamentaux réseau
 
 ## Projets
 
-[**nom-du-repo-1**](https://github.com/aykose/Algorithme-de-chiffrement-Vigen-re) Algorithme de chiffrement basé sur Vigenère avec stéganographie randomisation de clé et calcule de l'entropie de shannon.
+[**Algorithme-de-chiffrement-Vigen-re**](https://github.com/aykose/Algorithme-de-chiffrement-Vigen-re) Algorithme de chiffrement basé sur Vigenère avec stéganographie randomisation de clé et calcule de l'entropie de shannon.
 
 [**nom-du-repo-2**](https://github.com/TON_USER/nom-du-repo-2) Description courte du projet.
 

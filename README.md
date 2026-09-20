@@ -2,7 +2,7 @@
 
 Étudiant en Bachelor Cybersécurité à EPITA. Je m'intéresse à l'architecture réseau, au pentest et, plus largement, à tout ce qui touche à la sécurité offensive et défensive des systèmes.
 
-Je suis actuellement à la recherche d'une alternance pour 2027.
+Je suis actuellement à la recherche d'une alternance pour 2027 (1 semaine en cours 2 semaine en entreprise).
 
 LinkedIn : [linkedin.com/in/ton-profil](https://www.linkedin.com/in/alexi-gondry/)
 

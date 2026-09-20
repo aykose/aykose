@@ -18,7 +18,7 @@ Bachelor Cybersécurité — EPITA. Le programme couvre les fondamentaux réseau
 
 [**Algorithme-de-chiffrement-Vigen-re**](https://github.com/aykose/Algorithme-de-chiffrement-Vigen-re) Algorithme de chiffrement basé sur Vigenère avec stéganographie randomisation de clé et calcule de l'entropie de shannon.
 
-[**nom-du-repo-2**](https://github.com/TON_USER/nom-du-repo-2) Description courte du projet.
+[**mirai-gafgyt-static-analysis**](https://github.com/aykose/mirai-gafgyt-static-analysis) Reverse engineering statique d'un échantillon réel Mirai/Gafgyt.
 
 ## Contact
 

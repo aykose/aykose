@@ -20,6 +20,9 @@ Bachelor Cybersécurité — EPITA. Le programme couvre les fondamentaux réseau
 
 [**mirai-gafgyt-static-analysis**](https://github.com/aykose/mirai-gafgyt-static-analysis) Reverse engineering statique d'un échantillon réel Mirai/Gafgyt.
 
+[**llm-redteaming-lab**](https://github.com/aykose/llm-redteaming-lab) Évaluation automatisée de la robustesse des LLM face aux attaques par prompt injection et jailbreak.
+
+
 ## Contact
 
 [Portfolio](https://aykose.github.io) · [LinkedIn](https://www.linkedin.com/in/alexi-gondry/) · [GitHub](https://github.com/aykose)

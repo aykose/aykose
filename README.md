@@ -4,7 +4,6 @@
 
 Je suis actuellement à la recherche d'une alternance pour 2027 (1 semaine en cours 2 semaine en entreprise).
 
-LinkedIn : [linkedin.com/in/ton-profil](https://www.linkedin.com/in/alexi-gondry/)
 
 ## Formation
 

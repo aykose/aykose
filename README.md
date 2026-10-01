@@ -36,8 +36,6 @@ Fondamentaux réseau, cryptographie, sécurité système et bases du pentest, av
 
 | Certification | Organisme | Date | Vérification |
 |---|---|---|---|
-| [Nom de la certification] | [Organisme] | [Date] | [Lien] |
-| [Nom de la certification] | [Organisme] | [Date] | [Lien] |
 
 <!-- Variante badges : [![Nom](https://img.shields.io/badge/NOM_CERTIF-ORGANISME-E8A33D?style=for-the-badge)](LIEN_DE_VERIFICATION) -->
 
